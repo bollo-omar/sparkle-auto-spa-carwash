@@ -46,7 +46,7 @@ ul.nav-list {
     text-decoration: none;
 }
 section#hero{
-    background-image: url('./img/bg-landing.jpg');
+    background-image: url('../img/bg-landing.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
