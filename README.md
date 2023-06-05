@@ -1,2 +1,1 @@
-# sparkle-auto-spa-carwash
-Website for Sparkle Auto Carwash
+# Sparkle Auto Spar
