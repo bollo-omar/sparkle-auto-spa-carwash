@@ -11,6 +11,13 @@
       href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
       rel="stylesheet"
     />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
@@ -18,7 +25,7 @@
       <ul class="nav-list">
         <li><a href="#hero" class="nav-link">Sparkle Auto Spa</a></li>
         <li><a href="#about" class="nav-link">About</a></li>
-        <li><a href="#services" class="nav-link">Services</a></li>
+        <li><a href="#services" class="nav-link">Features</a></li>
       </ul>
     </header>
     <main class="container">
@@ -32,8 +39,55 @@
           <a href="#">Go to site</a>
         </div>
       </section>
-      <section class="section" id="about">About</section>
-      <section class="section" id="services">Media</section>
+      <section class="section" id="about">
+        <h1><i class="fa fa-address-card"></i> About</h1>
+        <div class="description">
+          <p>
+            This project draws inspiration from a car wash busines which offers
+            employemnet to jobless youths. We noticed they also needed an online
+            presense to market their services and keep track of their clients
+            and revenues.
+          </p>
+          <p>
+            For now we are not integrating an payment gateway, but will keep
+            records of cash payments and mobile money(MPesa)
+          </p>
+          <p>
+            This projct should take approximately one month for it to be
+            complete(Web) and secon iteration should should come with a mobile
+            app
+          </p>
+        </div>
+        <div class="contributors">
+          <h3><i class="fas fa-users"></i> Team Members</h3>
+          <ul class="team-list">
+            <li>
+              <div class="card">
+                <img src="./img/bollo.jpg" alt="bollo" />
+                <a href="https://www.linkedin.com/in/aggrey-bollo-51695780/" class="link">
+                  <i class="fa-brands fa-linkedin"></i> Bollo Aggrey</a>
+              </div>
+            </li>
+            <li>
+              <div class="card">
+                <img src="./img/victor54.jpg" alt="alex" />
+                <a href="#" class="link">
+                  <i class="fa-brands fa-linkedin"></i> Alex Kinyanjui</a>
+              </div>
+            </li>
+            <li>
+              <div class="card">
+                <img src="./img/victor.jpg" alt="victor" />
+                <a href="https://www.linkedin.com/in/victoramonde" class="link">
+                  <i class="fa-brands fa-linkedin"></i> Victor Amonde</a>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </section>
+      <section class="section" id="services">
+        <h1><i class="fa fa-paste"></i> Features</h1>
+      </section>
     </main>
   </body>
 </html>
