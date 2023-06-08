@@ -5,11 +5,6 @@ import {createOrder} from "@/services/order.service";
 
 export default async function BookingPage() {
 
-    let amount = 0;
-    const onChange = (evt : Event)=>{
-        const name = evt.target?.name;
-        const value = evt.target?.value
-    }
     return (
         <>
             <main className="bg-gray-100">
