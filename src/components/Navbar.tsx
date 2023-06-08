@@ -21,7 +21,7 @@ export function Navbar() {
                             <li><Link href="services" className="px-4 py-2 font-semibold text-gray-600 rounded">Services</Link>
                             </li>
                             <li><Link href="contacts" className="px-4 py-2 font-semibold text-gray-600 rounded">Contact Us</Link></li>
-                            <li><Link href="#" className="                                                                                       bg-transparent hover:bg-black text-black hover:text-white font-bold py-2 px-4 border border-black hover:border-transparent rounded outline-none focus:border-red-500">Book now</Link></li>
+                            <li><Link href="booking" className="bg-transparent hover:bg-black text-black hover:text-white font-bold py-2 px-4 border border-black hover:border-transparent rounded outline-none focus:border-red-500">Book now</Link></li>
 
                         </ul>
                         <div className="inline-flex md:hidden">

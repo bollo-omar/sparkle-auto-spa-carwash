@@ -38,7 +38,7 @@ export default function Contacts() {
                             </div>
                             <div className="mb-4">
                                 <label htmlFor="message" className="block text-gray-700">Message</label>
-                                <textarea id="message" rows="4" className="border border-gray-300 rounded px-4 py-2 w-full" />
+                                <textarea id="message" className="border border-gray-300 rounded px-4 py-2 w-full" />
                             </div>
                             <button className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600">Send Message</button>
                         </form>
