@@ -2,3 +2,27 @@
     background-image: url(../images/carousel/carousel-1.jpg);
     height: 80vh;
 }
+#about{
+    background-image: url(../images/carousel/carousel-2.jpg);
+    height: 60vh;
+}
+#services{
+    background-image: url(../images/carousel/carousel-3.jpg);
+    height: 60vh;
+}
+#contacts{
+    background-image: url(../images/carousel/blog-2.jpg);
+    height: 60vh;
+}
+#about-pic-bg{
+    background-image: url(../images/carousel/blog-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+    border-radius: 10px;
+}
+
+#about-pic-text{
+    height: 70vh;
+    border-radius: 10px;
+}
