@@ -184,3 +184,24 @@ section#about {
 .contributors h3 {
     margin-bottom: 20px;
 }
+section#services{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-grow: 1;
+}
+section#services>div.feature{
+    height: 60vh;
+    margin: 20px;
+    border: #5555 solid thin;
+    display: block;
+
+}
+section#services>div.feature > *{
+    margin: 15px;
+}
+
+section#services>div.feature img{
+    height: 200px;
+    width: 30vw;
+}
