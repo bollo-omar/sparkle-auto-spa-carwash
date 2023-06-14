@@ -3,7 +3,7 @@
 ![Sparkle Auto Spa](./carwash2.jpg)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bollo-omar/sparkle-auto-spa-carwash/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/bollo-omar/sparkle-auto-spa.svg)](https://github.com/bollo-omar/sparkle-auto-spa-carwash/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/bollo-omar/sparkle-auto-spa-carwash.svg)](https://github.com/bollo-omar/sparkle-auto-spa-carwash/stargazers)
 
 Sparkle Auto Spa is a carwash business portfolio website that showcases the services, facilities, and expertise of the Sparkle Auto Spa brand. It provides an attractive and informative platform for potential customers to explore the offerings of Sparkle Auto Spa.
 
