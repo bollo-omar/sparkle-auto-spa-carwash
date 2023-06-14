@@ -9,7 +9,7 @@ Sparkle Auto Spa is a carwash business portfolio website that showcases the serv
 
 ## Introduction
 
-Visit the [Sparkle Auto Spa Website](sparkle-auto-spa-carwash.vercel.app) to experience the services and expertise of Sparkle Auto Spa. You can also read the [Project Blog Article](https://medium.com/@bolloo18/my-alx-portfolio-project-30f7ed2c772) to learn more about the development process and insights gained from building this project.
+Visit the [Sparkle Auto Spa Website](https://sparkle-auto-spa-carwash.vercel.app) to experience the services and expertise of Sparkle Auto Spa. You can also read the [Project Blog Article](https://medium.com/@bolloo18/my-alx-portfolio-project-30f7ed2c772) to learn more about the development process and insights gained from building this project.
 
 This project is created and maintained by :
 1. [Bollo Aggrey Omondi](https://www.linkedin.com/in/aggrey-bollo-51695780/).
