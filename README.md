@@ -16,6 +16,20 @@ This project is created and maintained by :
 2. Alex Gikonyo
 3. Victor Amonde
 
+## Technical Details
+The Sparkle Auto Spa website is built using the following technologies and tools:
+
+Next.js: Chosen for its server-side rendering and efficient routing capabilities, enabling fast and optimized performance.
+SQLite: Utilized as the lightweight and flexible database solution to store and manage service information and customer inquiries.
+Vercel: Selected as the deployment platform for its seamless integration with Next.js and convenient deployment workflow.
+To enhance the user experience, I implemented a responsive design using CSS media queries, ensuring the website looks and functions well across different devices and screen sizes. The contact form functionality is powered by serverless functions, allowing users to submit inquiries easily and securely.
+
+## Technical Challenges
+Throughout the development process, we faced a few technical challenges. One of the main hurdles was integrating the SQLite database with Next.js. I had to carefully design the database schema, implement data retrieval and manipulation methods, and ensure efficient querying. Additionally, optimizing the website's performance and achieving a fast loading speed was a priority, requiring careful code organization and performance optimization techniques.
+
+## Future Improvements
+As with any project, there is always room for improvement. In future iterations of the Sparkle Auto Spa website, we plan to implement additional features such as an online booking system, user authentication, and interactive service descriptions. we also aim to enhance the website's SEO capabilities to improve its visibility in search engine results.
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/bollo-omar/sparkle-auto-spa-carwash.git`
