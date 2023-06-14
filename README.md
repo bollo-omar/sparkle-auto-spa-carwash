@@ -13,7 +13,7 @@ Visit the [Sparkle Auto Spa Website](https://sparkle-auto-spa-carwash.vercel.app
 
 This project is created and maintained by :
 1. [Bollo Aggrey Omondi](https://www.linkedin.com/in/aggrey-bollo-51695780/).
-2. Alex Gikonyo
+2. [Alex Gikonyo Kinyanjui](www.linkedin.com/in/alexgkinyanjui)
 3. Victor Amonde
 
 ## Technical Details
