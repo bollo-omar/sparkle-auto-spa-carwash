@@ -19,9 +19,9 @@ This project is created and maintained by :
 ## Technical Details
 The Sparkle Auto Spa website is built using the following technologies and tools:
 
-Next.js: Chosen for its server-side rendering and efficient routing capabilities, enabling fast and optimized performance.
-SQLite: Utilized as the lightweight and flexible database solution to store and manage service information and customer inquiries.
-Vercel: Selected as the deployment platform for its seamless integration with Next.js and convenient deployment workflow.
+***Next.js***: *Chosen for its server-side rendering and efficient routing capabilities, enabling fast and optimized performance.
+***SQLite***: *Utilized as the lightweight and flexible database solution to store and manage service information and customer inquiries.
+***Vercel***: *Selected as the deployment platform for its seamless integration with Next.js and convenient deployment workflow.*
 To enhance the user experience, I implemented a responsive design using CSS media queries, ensuring the website looks and functions well across different devices and screen sizes. The contact form functionality is powered by serverless functions, allowing users to submit inquiries easily and securely.
 
 ## Technical Challenges
