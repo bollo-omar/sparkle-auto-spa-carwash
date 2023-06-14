@@ -1,6 +1,6 @@
 # Sparkle Auto Spa Car Wash
 
-![Sparkle Auto Spa](/path/to/banner/image)
+![Sparkle Auto Spa](./carwash2.jpg)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bollo-omar/sparkle-auto-spa-carwash/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/bollo-omar/sparkle-auto-spa.svg)](https://github.com/bollo-omar/sparkle-auto-spa-carwash/stargazers)
